@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "html2canvas": "^1.0.0-rc.7",
+    "three": "^0.120.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
